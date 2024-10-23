@@ -1,4 +1,4 @@
-# AronimosConsistencyTracker
+# Consistency Tracker
 This is a program made to help speedrunners keep track of their consistency in a specific trick/section
 
 
